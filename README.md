@@ -1,4 +1,5 @@
 tummy
 =====
 
-tummy stuffs
+tummy stuffs- 
+animations, protos, psd & reference files, etc
